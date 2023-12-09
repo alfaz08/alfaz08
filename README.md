@@ -25,13 +25,11 @@ Here are some ideas to get you started again:
 </div>
 
 ## 👀 Current Overview
-<h3>
-- 🔭 I’m currently working on JavaScript,React,MongoDB,NodeJS,ExpressJS.
-- 🌱 I’m currently learning Redux,NextJS.
-- 💬 Ask me about ReactJS.
-- 👯 I’m looking - To collaborate on open source projects.
-- 📫 How to reach me: alfaz.cse@gmail.com
-</h3>
+- **🔭 I’m currently working on JavaScript,React,MongoDB,NodeJS,ExpressJS.**
+- **🌱 I’m currently learning Redux,NextJS.**
+- **💬 Ask me about ReactJS.**
+- **👯 I’m looking - To collaborate on open source projects.**
+- **📫 How to reach me: alfaz.cse@gmail.com**
 
 
 
