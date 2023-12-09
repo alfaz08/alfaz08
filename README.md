@@ -39,7 +39,7 @@ Here are some ideas to get you started again:
   <a href="https://github.com/alfaz08">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=alfaz08&theme=shades-of-purple" alt="GitHub Streak 1" width="50%">
   </a>
-  [![](https://raw.githubusercontent.com/alfaz08/alfaz08/master/profile-summary-card-output/shades_of_purple/0-profile-details.svg)](https://github.com/alfaz08)
+  
 
 [![](https://raw.githubusercontent.com/alfaz08/alfaz08/master/profile-summary-card-output/shades_of_purple/3-stats.svg)](https://github.com/alfaz08) [![](https://raw.githubusercontent.com/alfaz08/alfaz08/master/profile-summary-card-output/shades_of_purple/4-productive-time.svg)](https://github.com/alfaz08)
 </div>
