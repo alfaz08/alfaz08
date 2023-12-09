@@ -109,6 +109,6 @@ Online Group Study Github:
 Brand Shop Github:
 
 - front-end https://github.com/alfaz08/brand-shop-client-side
-- back-end https://github.com/alfaz08/group-study-web-server-side
+- back-end https://github.com/alfaz08/brand-shop-server-side
 
 
