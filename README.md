@@ -98,7 +98,7 @@ Here are some ideas to get you started again:
 
 ## ⚡ Projects
 
-## OpinionOverflow Web With MERN Stack
+## ⚡ OpinionOverflow Web With MERN Stack
 
 ✔ OpinionOverflow Web With MERN Stack https://opinion-overflow-web.web.app/
 
@@ -109,7 +109,7 @@ OpinionOverflow Github:
 - Admin-Email: ph@gmail.com
 - Admin-Pass: cs@PH1#
 
-## Online Group Study Web With MERN Stack
+## ⚡ Online Group Study Web With MERN Stack
 
 ✔ Online Group Study Web With MERN Stack https://group-study-web.web.app/
 
@@ -119,7 +119,7 @@ Online Group Study Github:
 - back-end https://github.com/alfaz08/group-study-web-server-side
 
 
-## Brand Shop E-commerce Site With MERN Stack
+## ⚡ Brand Shop E-commerce Site With MERN Stack
 
 ✔ Brand Shop E-commerce Site https://brand-shop-c4c2e.web.app/
 
