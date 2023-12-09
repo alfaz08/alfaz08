@@ -18,17 +18,17 @@ Here are some ideas to get you started again:
 
 ## 💫 About ME
 <div align="center">
-  <h2>
+  <h3>
     I'm Md Alfaz Hossain, a passionate React front-end developer dedicated to bringing a holistic approach to web development. My focus is on creating seamless, intuitive, optimized, and visually appealing applications that exceed user expectations through the transformative power of technology.
-  </h2>
+  </h3>
 
 </div>
 
 ## 👀 Current Overview
-- 🔭 I’m currently working on JavaScript,React,MongoDB,NodeJS,ExpressJS.
-- 🌱 I’m currently learning Redux,NextJS.
-- 💬 Ask me about ReactJS.
-- 📫 Contact on my Email: alfaz.cse@gmail.com
+<h2>🔭 I’m currently working on JavaScript,React,MongoDB,NodeJS,ExpressJS.</h2>
+<h2>🌱 I’m currently learning Redux,NextJS.</h2>
+<h2>💬 Ask me about ReactJS.</h2>
+<h2>📫 How to reach me: alfaz.cse@gmail.com</h2>
 
 
 
