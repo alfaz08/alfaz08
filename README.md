@@ -19,10 +19,11 @@ Here are some ideas to get you started again:
 ## 💫 About Me:
 <div align="center">
   <h2>
-  I'm Md Alfaz Hossain, a passionate React front-end developer dedicated to bringing a holistic approach to web development, focusing on creating seamless, intuitive, and visually appealing applications that exceed user expectations through the transformative power of technology.
+  I'm Md Alfaz Hossain, a passionate React front-end developer dedicated to bringing a holistic approach to web development, focusing on creating seamless, intuitive, opitimized and visually appealing applications that exceed user expectations through the transformative power of technology.
   </h2>
 </div>
-
+- 🔭 I’m currently working on JavaScript,React,MongoDB,Nodejs,ExpressJS.
+- 🌱 I’m currently learning Redux,NextJS.
 
 
 
