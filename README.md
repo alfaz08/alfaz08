@@ -17,7 +17,12 @@ Here are some ideas to get you started again:
 ![Header](./asset/github-header-image%20(5).png)
 
 ## 💫 About Me:
-I'm Md Alfaz Hossain, a passionate React front-end developer dedicated to bringing a holistic approach to web development, focusing on creating seamless, intuitive, and visually appealing applications that exceed user expectations through the transformative power of technology.
+<div align="center">
+  <h2>
+  I'm Md Alfaz Hossain, a passionate React front-end developer dedicated to bringing a holistic approach to web development, focusing on creating seamless, intuitive, and visually appealing applications that exceed user expectations through the transformative power of technology.
+  </h2>
+</div>
+
 
 
 
