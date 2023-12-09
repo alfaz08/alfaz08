@@ -16,19 +16,18 @@ Here are some ideas to get you started again:
 -->
 ![Header](./asset/github-header-image%20(5).png)
 
+## 💫 About ME
 <div align="center">
   <h2>
     I'm Md Alfaz Hossain, a passionate React front-end developer dedicated to bringing a holistic approach to web development. My focus is on creating seamless, intuitive, optimized, and visually appealing applications that exceed user expectations through the transformative power of technology.
   </h2>
-  <p>
-    🔭 I’m currently working on JavaScript, React, MongoDB, Node.js, ExpressJS.
-  </p>
-  <p>
-    🌱 I’m currently learning Redux, Next.js.
-  </p>
 </div>
 
-
+## 👀 Current Overview
+- 🔭 I’m currently working on JavaScript,React,MongoDB,NodeJS,ExpressJS.
+- 🌱 I’m currently learning Redux,NextJS.
+- 💬 Ask me about ReactJS.
+- 📫 Contact on my Email: alfaz.cse@gmail.com
 
 ## 📊 Current Stats
 
