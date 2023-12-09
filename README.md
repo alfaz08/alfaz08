@@ -14,7 +14,7 @@ Here are some ideas to get you started again:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](./github-header-image%20(5).png)
+![Header](./https://i.ibb.co/rkrk0RG/github-header-image-5.png)
 
 
 
@@ -31,14 +31,12 @@ Here are some ideas to get you started again:
 ## 📫 Reach Me Out
 <p align="center" dir="auto">
   <em><strong>
-    <!-- <a href="https://web.programming-hero.com" rel="nofollow">
-      <img height="55" src="./github-header-image (9).png" style="max-width: 100%;">
-    </a> -->
+    
     <a href="https://www.facebook.com/alfaz.cse" rel="nofollow">
-      <img height="55" src="./github-header-image (14).png" style="max-width: 100%;">
+      <img height="55" src="https://i.ibb.co/RT4qmJv/github-header-image-14.png" style="max-width: 100%;">
     </a>
     <a href="www.linkedin.com/in/alfaz08" rel="nofollow">
-      <img height="55" src="./github-header-image (15).png" style="max-width: 100%;">
+      <img height="55" src="https://i.ibb.co/FBxvw7q/github-header-image-15.png" style="max-width: 100%;">
     </a>
    
   </strong></em>
