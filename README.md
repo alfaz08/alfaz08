@@ -14,7 +14,7 @@ Here are some ideas to get you started again:
 - 😄 Pronouns: ...
 - ⚡ Fun fact:sdd ...
 -->
-![Header](./asset/github-header-image%20(5).png)(https://github.com/alfaz08)
+![Header](./asset/github-header-image%20(5).png)
 
 ## 💫 About ME
 <div align="center">
