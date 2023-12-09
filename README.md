@@ -104,7 +104,7 @@ Online Group Study Github:
 
 ## Brand Shop E-commerce Site With MERN Stack
 
-✔ Brand Shop E-commerce Site https://github.com/alfaz08/brand-shop-server-side
+✔ Brand Shop E-commerce Site https://brand-shop-c4c2e.web.app/
 
 Brand Shop Github:
 
