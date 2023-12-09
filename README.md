@@ -42,23 +42,7 @@ Here are some ideas to get you started again:
   
 </div>
 
-## 📫 Reach Me Out
-<p align="center" dir="auto">
-  <em><strong>
-    
-   
 
-<a href="https://www.facebook.com/alfaz.cse" rel="nofollow">
-      <img height="55" src="./asset/github-header-image (14).png" style="max-width: 100%;">
-    </a>
-    <a href="www.linkedin.com/in/alfaz08" rel="nofollow">
-      <img height="55" src="./asset/github-header-image (15).png" style="max-width: 100%;">
-    </a>
-
-
-   
-  </strong></em>
-</p>
 
 ## 💻 Technologies that I know
 <table><tbody><tr><td valign="top" width="33%">
@@ -92,6 +76,26 @@ Here are some ideas to get you started again:
 [![](https://raw.githubusercontent.com/alfaz08/alfaz08/master/profile-summary-card-output/shades_of_purple/0-profile-details.svg)](https://github.com/alfaz08)
 [![](https://raw.githubusercontent.com/alfaz08/alfaz08/master/profile-summary-card-output/shades_of_purple/1-repos-per-language.svg)](https://github.com/alfaz08) [![](https://raw.githubusercontent.com/alfaz08/alfaz08/master/profile-summary-card-output/shades_of_purple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/alfaz08/alfaz08/master/profile-summary-card-output/shades_of_purple/3-stats.svg)](https://github.com/alfaz08) [![](https://raw.githubusercontent.com/alfaz08/alfaz08/master/profile-summary-card-output/shades_of_purple/4-productive-time.svg)](https://github.com/alfaz08)
+
+## 📫 Reach Me Out
+<p align="center" dir="auto">
+  <em><strong>
+    
+   
+
+<a href="https://www.facebook.com/alfaz.cse" rel="nofollow">
+      <img height="55" src="./asset/github-header-image (14).png" style="max-width: 100%;">
+    </a>
+    <a href="www.linkedin.com/in/alfaz08" rel="nofollow">
+      <img height="55" src="./asset/github-header-image (15).png" style="max-width: 100%;">
+    </a>
+
+
+   
+  </strong></em>
+</p>
+
+
 
 ## Projects
 
