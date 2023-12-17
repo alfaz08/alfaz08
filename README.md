@@ -88,7 +88,7 @@ Here are some ideas to get you started again:
 <a href="https://www.facebook.com/alfaz.cse" rel="nofollow">
       <img height="55" src="./asset/github-header-image (14).png" style="max-width: 100%;">
     </a>
-    <a href="www.linkedin.com/in/alfaz08" rel="nofollow">
+    <a href="https://www.linkedin.com/in/alfaz08" rel="nofollow">
       <img height="55" src="./asset/github-header-image (15).png" style="max-width: 100%;">
     </a>
 
