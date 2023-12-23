@@ -29,7 +29,7 @@ Here are some ideas to get you started again:
 - **🌱 I’m currently learning Redux,NextJS.**
 - **💬 Ask me about ReactJS.**
 - **👯 I’m looking - To collaborate on open source projects.**
-- **📫 How to reach me: alfaz.cse@gmail.com**
+- **📫 How to reach me: alfaz.hossain118@gmail.com**
 - **⚡ Checkout my portfolio: https://alfazportfolio.netlify.app**
 
 
