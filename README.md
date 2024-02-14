@@ -99,6 +99,28 @@ Here are some ideas to get you started again:
 
 ## ⚡ Projects
 
+## ⚡ Locale Flavour Food With MERN Stack
+
+✔ Locale Flavour Food With MERN Stack https://locale-flavour-food.web.app/
+
+Locale Flavour Food Github:
+
+- front-end https://github.com/alfaz08/locale-flavour-food-client
+- back-end https://github.com/alfaz08/locale-flavour-food-server
+- Admin-Email: messmanager@gmail.com
+- Admin-Pass: LM@01mn
+
+## ⚡ Mess Manage Hub With MERN Stack
+
+✔ Mess Manage Hub With MERN Stack https://mess-manage-hub.web.app/
+
+Mess Manage Hub Github:
+
+- front-end https://github.com/alfaz08/mess-manage-hub-client
+- back-end https://github.com/alfaz08/mess-manage-hub-server
+- Admin-Email: webadmin@gmail.com
+- Admin-Pass: LM@01mn
+  
 ## ⚡ OpinionOverflow Web With MERN Stack
 
 ✔ OpinionOverflow Web With MERN Stack https://opinion-overflow-web.web.app/
@@ -109,24 +131,5 @@ OpinionOverflow Github:
 - back-end https://github.com/alfaz08/forum-web-server-side
 - Admin-Email: ph@gmail.com
 - Admin-Pass: cs@PH1#
-
-## ⚡ Online Group Study Web With MERN Stack
-
-✔ Online Group Study Web With MERN Stack https://group-study-web.web.app/
-
-Online Group Study Github:
-
-- front-end https://github.com/alfaz08/group-study-web-client-side
-- back-end https://github.com/alfaz08/group-study-web-server-side
-
-
-## ⚡ Brand Shop E-commerce Site With MERN Stack
-
-✔ Brand Shop E-commerce Site https://brand-shop-c4c2e.web.app/
-
-Brand Shop Github:
-
-- front-end https://github.com/alfaz08/brand-shop-client-side
-- back-end https://github.com/alfaz08/brand-shop-server-side
 
 
