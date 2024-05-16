@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/alfaz08/alfaz08/master/profile-summary-card-output/highcontrast/4-productive-time.svg)
-```
-
-    
